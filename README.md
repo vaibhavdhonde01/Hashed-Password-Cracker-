@@ -38,10 +38,6 @@ Clone this repository:
 git clone https://github.com/yourusername/hashed-password-cracker.git
 cd hashed-password-cracker
 
-Install required dependencies:
-
-pip install -r requirements.txt
-
 Run the application:
 
 python main.py
