@@ -29,7 +29,8 @@ Installation
 
 Prerequisites
 
-Ensure you have Python 3.x installed on your system.
+1) Ensure you have Python 3.x installed on your system.
+2) Put all the 3 files (main.py, password.txt and hashed.txt) in same folder 
 
 Steps to Install & Run
 
